@@ -1,2 +1,2 @@
 # MDCSampleApp
-Demonstrating MDC components and behaviour
+Playground for demonstrating MDC components and behaviours
