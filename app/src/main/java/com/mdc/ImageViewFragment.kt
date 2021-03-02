@@ -11,6 +11,8 @@ import kotlinx.android.synthetic.main.fragment_shapaeble_imageview.*
 
 /**
  * Created by Pranav Bhoraskar
+ *
+ * Class showing basic implementation of ShapeableImageView
  */
 class ImageViewFragment : Fragment() {
 

@@ -3,12 +3,16 @@
     <color name="primaryColor">#ffeb3b</color>
     <color name="primaryLightColor">#ffff72</color>
     <color name="primaryDarkColor">#c8b900</color>
+
     <color name="secondaryColor">#212426</color>
     <color name="secondaryLightColor">#484c4e</color>
     <color name="secondaryDarkColor">#000000</color>
+
     <color name="primaryTextColor">#212426</color>
     <color name="secondaryTextColor">#fafbfc</color>
+
     <color name="white">#ffffff</color>
     <color name="black">#000000</color>
+
     <color name="bright_blue">#037aff</color>
 </resources>
